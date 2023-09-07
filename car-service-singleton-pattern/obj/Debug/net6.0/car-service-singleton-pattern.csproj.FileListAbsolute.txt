@@ -1,0 +1,15 @@
+D:\mycode\csharp\design-patterns\car-service-singleton-pattern\car-service-singleton-pattern\bin\Debug\net6.0\car-service-singleton-pattern.exe
+D:\mycode\csharp\design-patterns\car-service-singleton-pattern\car-service-singleton-pattern\bin\Debug\net6.0\car-service-singleton-pattern.deps.json
+D:\mycode\csharp\design-patterns\car-service-singleton-pattern\car-service-singleton-pattern\bin\Debug\net6.0\car-service-singleton-pattern.runtimeconfig.json
+D:\mycode\csharp\design-patterns\car-service-singleton-pattern\car-service-singleton-pattern\bin\Debug\net6.0\car-service-singleton-pattern.dll
+D:\mycode\csharp\design-patterns\car-service-singleton-pattern\car-service-singleton-pattern\bin\Debug\net6.0\car-service-singleton-pattern.pdb
+D:\mycode\csharp\design-patterns\car-service-singleton-pattern\car-service-singleton-pattern\obj\Debug\net6.0\car-service-singleton-pattern.csproj.AssemblyReference.cache
+D:\mycode\csharp\design-patterns\car-service-singleton-pattern\car-service-singleton-pattern\obj\Debug\net6.0\car-service-singleton-pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\csharp\design-patterns\car-service-singleton-pattern\car-service-singleton-pattern\obj\Debug\net6.0\car-service-singleton-pattern.AssemblyInfoInputs.cache
+D:\mycode\csharp\design-patterns\car-service-singleton-pattern\car-service-singleton-pattern\obj\Debug\net6.0\car-service-singleton-pattern.AssemblyInfo.cs
+D:\mycode\csharp\design-patterns\car-service-singleton-pattern\car-service-singleton-pattern\obj\Debug\net6.0\car-service-singleton-pattern.csproj.CoreCompileInputs.cache
+D:\mycode\csharp\design-patterns\car-service-singleton-pattern\car-service-singleton-pattern\obj\Debug\net6.0\car-service-singleton-pattern.dll
+D:\mycode\csharp\design-patterns\car-service-singleton-pattern\car-service-singleton-pattern\obj\Debug\net6.0\refint\car-service-singleton-pattern.dll
+D:\mycode\csharp\design-patterns\car-service-singleton-pattern\car-service-singleton-pattern\obj\Debug\net6.0\car-service-singleton-pattern.pdb
+D:\mycode\csharp\design-patterns\car-service-singleton-pattern\car-service-singleton-pattern\obj\Debug\net6.0\car-service-singleton-pattern.genruntimeconfig.cache
+D:\mycode\csharp\design-patterns\car-service-singleton-pattern\car-service-singleton-pattern\obj\Debug\net6.0\ref\car-service-singleton-pattern.dll
